@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">todoscrollapp</string>
+    <string name="delete_button">deleteButton</string>
+    <string name="new_todo">new todo</string>
+    <string name="todo_title">Todo Title</string>
+    <string name="todo_content">Todo Content</string>
+    <string name="add_button">add button</string>
+</resources>
